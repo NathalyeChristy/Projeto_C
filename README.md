@@ -1,3 +1,3 @@
 # Projeto_C
 
-Este repostorio é refente aos programas desenvolvidos em C.
+Este repositorio Ã© refente aos programas desenvolvidos em C.
