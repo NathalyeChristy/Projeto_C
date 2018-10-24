@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{D8A5075B-CD50-43C6-86E6-582D4C87C305}</ProjectGuid>
+    <ProjectGuid>{86591BB7-4FE5-4D20-8188-6F243B993B78}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Aula2210Condicionais</RootNamespace>
+    <RootNamespace>Aula2410Switch</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -154,8 +154,7 @@
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Aula2210_Condicionais.cpp" />
-    <ClCompile Include="Aulas2210_Condicionais_Switch.cpp" />
+    <ClCompile Include="Aula2410_Switch.cpp" />
     <ClCompile Include="pch.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
